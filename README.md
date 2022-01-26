@@ -9,3 +9,6 @@ EndpointとApiKeyはlocal.propertiesに以下の形式で記述
 endPoint = xxxxxxx
 <br>
 apiKey = xxxxxxx
+
+## Screenshots
+<img src="screenshot1.png" width="20%"> <img src="screenshot2.png" width="20%"> <img src="screenshot5.png" width="20%"> <img src="screenshot4.png" width="20%">
